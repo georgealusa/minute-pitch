@@ -15,7 +15,7 @@ class Config:
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
     MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
     SUBJECT_PREFIX = 'pitch'
-    SENDER_EMAIL = 'michael.m.njoroge254@gmail.com'
+    SENDER_EMAIL = 'georgealusa@gmail.com'
 
     # simple mde  configurations
     SIMPLEMDE_JS_IIFE = True
