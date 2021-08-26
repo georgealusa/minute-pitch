@@ -71,4 +71,4 @@ If you have any question or contributions, please email me at [georgealusa@gmail
 
 ## License
 * *MIT License:*
-* Copyright (c) 2021 **George Alusa**
+* Copyright (c) 2021 **George Alusa.**
